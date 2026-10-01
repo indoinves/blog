@@ -1,0 +1,20 @@
+{
+  "name": "indoinves-blog",
+  "version": "1.0.0",
+  "description": "Automated blog directory generator for Indoinves global news publication",
+  "main": "generate_blog.py",
+  "scripts": {
+    "generate": "python generate_blog.py",
+    "start": "python -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indoinves/indoinves.github.io.git"
+  },
+  "author": "Indoinves Editorial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indoinves/indoinves.github.io/issues"
+  },
+  "homepage": "https://indoinves.js.org"
+}
