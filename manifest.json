@@ -1,0 +1,20 @@
+{
+  "name": "Indoinves",
+  "short_name": "Indoinves",
+  "start_url": "https://indoinves.js.org/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "https://indoinves.js.org/indoinves.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://indoinves.js.org/indoinves.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
